@@ -12,6 +12,7 @@ Danh sách 10 giáo trình/tài liệu kinh tế học bằng tiếng Anh, tất
 - **Mô tả**: Giáo trình bao quát đầy đủ chương trình "Principles of Economics", trình bày cân bằng giữa lý thuyết và ứng dụng với nhiều ví dụ thực tiễn
 - **Giấy phép**: Creative Commons Attribution (CC BY)
 - **Link**: [https://openstax.org/details/books/principles-economics-3e](https://openstax.org/details/books/principles-economics-3e)
+- - **Link toàn văn (PDF)**: [Tải PDF](https://assets.openstax.org/oscms-prodcms/media/documents/Economics3e-WEB_AObkTqf.pdf)
 
 ## 2. The Economy 2.0 (CORE Econ)
 
@@ -19,6 +20,7 @@ Danh sách 10 giáo trình/tài liệu kinh tế học bằng tiếng Anh, tất
 - **Năm xuất bản**: Cập nhật đến 2024-2025
 - **Chủ đề**: Kinh tế học nhập môn (vi mô, vĩ mô, bất bình đẳng, môi trường)
 - **Mô tả**: Giáo trình hiện đại nhấn mạnh bất bình đẳng, toàn cầu hóa, môi trường và công nghệ
+- - **Link toàn văn**: [Đọc online](https://books.core-econ.org/the-economy/microeconomics/) | [Tải EPUB](https://d18y50suo8qxjg.cloudfront.net/the-economy/downloads/the-economy-2-0-microeconomics-epub.epub)
 - **Giấy phép**: Open access, CC BY-NC-ND
 - **Link**: [https://www.core-econ.org/the-economy/](https://www.core-econ.org/the-economy/)
 
@@ -30,6 +32,7 @@ Danh sách 10 giáo trình/tài liệu kinh tế học bằng tiếng Anh, tất
 - **Mô tả**: Giáo trình vi mô truyền thống ở mức trung cấp, từ hành vi người tiêu dùng đến cân bằng tổng quát
 - **Giấy phép**: Creative Commons
 - **Link**: [https://open.oregonstate.education/intermediatemicroeconomics/](https://open.oregonstate.education/intermediatemicroeconomics/)
+- - **Link toàn văn**: [Đọc online](https://open.oregonstate.education/intermediatemicroeconomics/) | [PDF trên Archive.org](https://archive.org/details/PMEmerson-Intermediate-Microeconomics)
 
 ## 4. Principles of Macroeconomics (Open Textbook Library)
 
@@ -39,6 +42,7 @@ Danh sách 10 giáo trình/tài liệu kinh tế học bằng tiếng Anh, tất
 - **Mô tả**: Giáo trình bao trùm các chủ đề tiêu chuẩn: GDP, lạm phát, thất nghiệp, chính sách tài khóa-tiền tệ
 - **Giấy phép**: Creative Commons (CC BY-NC-SA)
 - **Link**: [https://open.umn.edu/opentextbooks/textbooks/33](https://open.umn.edu/opentextbooks/textbooks/33)
+- - **Link toàn văn (PDF)**: [Tải PDF](https://openlibrary-repo.ecampusontario.ca/jspui/bitstream/123456789/1979/2/Principles-of-Macroeconomics-1702589703._print.pdf)
 
 ## 5. Public Economics: Principles and Practice (Peter Abelson)
 
@@ -57,6 +61,7 @@ Danh sách 10 giáo trình/tài liệu kinh tế học bằng tiếng Anh, tất
 - **Mô tả**: Tài nguyên tương tác kết hợp lý thuyết với mã R, dữ liệu thực tế và bài tập lập trình
 - **Giấy phép**: Creative Commons
 - **Link**: [https://www.econometrics-with-r.org/](https://www.econometrics-with-r.org/)
+- - **Link toàn văn**: [Đọc online](https://www.econometrics-with-r.org/) (không có PDF đơn lẻ, sách tương tác web)
 
 ## 7. Principles of Macroeconomics (Economics Network)
 
@@ -66,6 +71,7 @@ Danh sách 10 giáo trình/tài liệu kinh tế học bằng tiếng Anh, tất
 - **Mô tả**: Sách trực tuyến miễn phí cho sinh viên đại học và tự học
 - **Giấy phép**: Open access/OER với Creative Commons
 - **Link**: [https://economicsnetwork.ac.uk/teaching/Online%20Textbooks/Principles%20of%20Macroeconomics](https://economicsnetwork.ac.uk/teaching/Online%20Textbooks/Principles%20of%20Macroeconomics)
+- - **Link toàn văn**: [Đọc online](https://economicsnetwork.ac.uk/teaching/Online%20Textbooks/Principles%20of%20Macroeconomics) (sách web)
 
 ## 8. The Economy 1.0 (CORE Econ)
 
@@ -75,6 +81,7 @@ Danh sách 10 giáo trình/tài liệu kinh tế học bằng tiếng Anh, tất
 - **Mô tả**: Giáo trình nhập môn 22 chương, bao quát vi mô-vĩ mô, toàn cầu hóa, bất bình đẳng
 - **Giấy phép**: Free, open access (CC BY-NC-ND)
 - **Link**: [https://core-econ.org/the-economy/book/text/0-3-contents.html](https://core-econ.org/the-economy/book/text/0-3-contents.html)
+- - **Link toàn văn**: [Đọc online](https://core-econ.org/the-economy/book/text/0-3-contents.html) (sách web, phiên bản cũ)
 
 ## 9. Economics OER Collections (MSVU LibGuide)
 
@@ -84,6 +91,7 @@ Danh sách 10 giáo trình/tài liệu kinh tế học bằng tiếng Anh, tất
 - **Mô tả**: LibGuide tập hợp nhiều nguồn mở: textbook, video, bài giảng, mô phỏng
 - **Giấy phép**: Các OER con có giấy phép Creative Commons riêng
 - **Link**: [https://libguides.msvu.ca/c.php?g=114512&p=5105976](https://libguides.msvu.ca/c.php?g=114512&p=5105976)
+- - **Link toàn văn**: [Xem LibGuide](https://libguides.msvu.ca/c.php?g=114512&p=5105976) (tổng hợp OER, không phải sách đơn lẻ)
 
 ## 10. Economics OER Guide (WPI)
 
@@ -93,6 +101,7 @@ Danh sách 10 giáo trình/tài liệu kinh tế học bằng tiếng Anh, tất
 - **Mô tả**: Hướng dẫn tổng hợp giáo trình, bài tập, dữ liệu và mô phỏng cho giảng dạy và tự học
 - **Giấy phép**: Creative Commons cho các nguồn OER được liên kết
 - **Link**: [https://libguides.wpi.edu/oer/Economics](https://libguides.wpi.edu/oer/Economics)
+- - **Link toàn văn**: [Xem OER Guide](https://libguides.wpi.edu/oer/Economics) (tổng hợp OER, không phải sách đơn lẻ)
 
 ---
 
